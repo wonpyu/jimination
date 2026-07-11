@@ -8,6 +8,25 @@ font-family:'Patrick Hand', cursive;
 
 }
 
+/* HP */
+@media screen and (max-width: 768px){
+
+  body{
+    display:flex;
+    justify-content:center;
+    padding:20px 0;
+    overflow-x:hidden;
+  }
+
+  .paper{
+    width:90% !important;
+    max-width:600px !important;
+    margin:20px auto !important;
+    padding:40px 20px !important;
+  }
+
+}
+
 
 /* PAPER */
 
